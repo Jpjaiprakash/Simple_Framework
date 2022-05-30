@@ -8,7 +8,7 @@ public class Class1Test {
 		System.out.println("Yash");
 		System.out.println("Darshan");
 		System.out.println("Sudeep");
-		Syste.out.println("puneeth");
+		System.out.println("puneeth");
 	}
 
 }
